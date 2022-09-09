@@ -17,6 +17,6 @@ Contamos con un gran catálogo de gifs y podrás explorar tu favorito
 <ul>
     <li>HTML5</li>
     <li>CSS3</li>
-    <li>Vite.Js</li>
+    <li>Vite</li>
     <li>React.Js</li>
 </ul>
