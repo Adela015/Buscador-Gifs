@@ -3,10 +3,10 @@
 </h1>
 
 <p>
-    hhh
+    Buscador de Gif hecho con la Api GIPHY
       <br>
       <br>
-    <img src="./orange.jpg">
+    <img src="./public/orange.jpg">
     <img>
 </p>
 
