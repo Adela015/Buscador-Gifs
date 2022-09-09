@@ -1,12 +1,12 @@
 <h1>
-   Tienda de Hello Kitty 
+   Buscador de Gifs
 </h1>
 
 <p>
-    hhh
+Contamos con un gran catálogo de gifs y podrás explorar tu favorito
       <br>
       <br>
-    <img src="./orange.jpg">
+    <img src="./public/orange.jpg">
     <img>
 </p>
 
