@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap');
+
+body{
+  font-family: 'Lato', sans-serif;
+  color: rgb(30, 29, 29);
+  font-weight: 800;
+  background-image: url('https://img.freepik.com/vector-gratis/fondo-pantalla-dibujos-animados-coloridos-brillantes-arco-iris-vector_53876-115663.jpg?w=2000');
+}
+
+.App{
+  text-align: center;
+  margin-top: 6%;  
+}
+
+.container-gifs {
+  display: flex;
+  gap: 25px;
+  flex-wrap: wrap;
+  margin-top: 4%;
+  justify-content: center;
+  padding: 0 5%;
+}
+
+.container-gifs div img {
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
+
+input[type="text"] {
+  font-size: inherit;
+  background-color: rgb(229, 78, 161);
+  padding: 12px 20px;
+  outline: none;
+  border: solid 0px #000;
+  border-radius: 5px;
+  width: 250px;
+  color: white;
+}
+
+.error {
+  color: red;
+}
